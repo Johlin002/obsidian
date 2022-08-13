@@ -7,12 +7,8 @@
         "id": "29c6f1ec0479928b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5107650756836
+    "width": 234.5
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "29c6f1ec0479928b",
   "lastOpenFiles": [
-    "talet e.md",
-    "Gymnasiet/Matte 1/Aritmetik/Talmängderna tillsammans.md",
-    "Gymnasiet/Matte 1/Aritmetik/Reella tal.md",
-    "Gymnasiet/Matte 1/Aritmetik/Rationella tal.md",
-    "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
-    "Gymnasiet/Matte 1/Aritmetik/Naturliga tal.md",
-    "Gymnasiet/Matte 1/Aritmetik/Irrationella tal.md",
-    "Gymnasiet/Matte 1/Aritmetik/Heltal.md",
-    "tal.md",
-    "noll.md"
+    "Gymnasiet/Matte 3/Avsaknad av q-värde.md",
+    "Gymnasiet/Matte 1/Pyramid.md",
+    "Gymnasiet/Matte 2/Funktionsbegreppet.md",
+    "Gymnasiet/Matte 2/Korrelation och regressionsanalys.md",
+    "Gymnasiet/Matte 2/Normalfördelning.md",
+    "Gymnasiet/Matte 2/Standardavvikelse.md",
+    "Untitled.md",
+    "Gymnasiet/Matte 2/Kvartiler och lådagram.md",
+    "Gymnasiet/Matte 2/Lägesmått.md",
+    "Gymnasiet/Matte 2/Andra baser.md"
   ]
 }

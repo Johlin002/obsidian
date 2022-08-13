@@ -13,6 +13,34 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"Gymnasiet/Matte 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Gymnasiet/Matte 3\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Gymnasiet/Matte 4\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Gymnasiet/Matte 5\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5963467493860801,
+  "scale": 0.22264717991932242,
   "close": true
 }
