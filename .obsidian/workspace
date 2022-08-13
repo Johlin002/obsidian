@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "2fd691942922d96b",
+    "type": "split",
+    "children": [
+      {
+        "id": "831d4a7d5a4c4003",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdfb5e962e50ea25",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c4f6571324e429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "327ec8a84344a4ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fabff7436517ff33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2954460e7775c9ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b87548abc03dad46",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ec080216827a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87ad292efa164ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b92594a02296bfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42434b21631c0780",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69aaa1e5236ce27f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "831d4a7d5a4c4003",
+  "lastOpenFiles": [
+    "Matematik/Pythagoras sats.md",
+    "Formel.md",
+    "Historia.md",
+    "Matematik.md",
+    "Fysik.md"
+  ]
+}
