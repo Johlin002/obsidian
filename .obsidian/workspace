@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "29c6f1ec0479928b",
+        "id": "e04e44db9517b0e4",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29c6f1ec0479928b",
+  "active": "e04e44db9517b0e4",
   "lastOpenFiles": [
-    "Gymnasiet/Fysik 2/Untitled.md",
-    "Gymnasiet/Fysik 2/Våg.md",
-    "Gymnasiet/Fysik 2/Interferens.md",
-    "Gymnasiet/Fysik 2/våg-partikeldualism.md",
-    "Gymnasiet/Fysik 2/de Broglies hypotes.md",
-    "Gymnasiet/Fysik 2/Ljudstyrka.md",
-    "Gymnasiet/Fysik 2/Atomens elektronstruktur.md",
-    "Gymnasiet/Fysik 2/Magnetiska fält.md",
-    "Gymnasiet/Fysik 2/Dopplereffekt.md",
-    "Gymnasiet/Fysik 2/Resonans.md"
+    "Gymnasiet/Fysik 2/Weber.md",
+    "Gymnasiet/Fysik 2/Resistans.md",
+    "Gymnasiet/Fysik 2/Ohm.md",
+    "Gymnasiet/Fysik 2/Volt.md",
+    "Gymnasiet/Fysik 2/Ampere.md",
+    "Gymnasiet/Fysik 2/Coulomb.md",
+    "Gymnasiet/Fysik 2/Elektronvolt.md",
+    "Gymnasiet/Fysik 1/Untitled.md",
+    "Gymnasiet/Fysik 1/Celsius.md",
+    "Gymnasiet/Fysik 1/Kelvin.md"
   ]
 }
