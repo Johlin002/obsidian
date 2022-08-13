@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 286.5
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -122,15 +122,15 @@
   },
   "active": "29c6f1ec0479928b",
   "lastOpenFiles": [
-    "Gymnasiet/Fysik 1/Värmekapacitet.md",
-    "Gymnasiet/Fysik 1/Ohms lag.md",
-    "Gymnasiet/Fysik 1/Tyngdacceleration.md",
-    "Gymnasiet/Fysik 1/Densitet.md",
-    "Gymnasiet/Fysik 1/Arkimedes princip.md",
-    "Gymnasiet/Fysik 1/Friktion.md",
-    "Gymnasiet/Fysik 2/Ljudvågor.md",
-    "Gymnasiet/Fysik 2/Ljudnivå.md",
-    "Gymnasiet/Fysik 2/Gitterformeln.md",
-    "Gymnasiet/Fysik 2/Hookes lag.md"
+    "Gymnasiet/Fysik 2/Untitled.md",
+    "Gymnasiet/Fysik 2/Våg.md",
+    "Gymnasiet/Fysik 2/Interferens.md",
+    "Gymnasiet/Fysik 2/våg-partikeldualism.md",
+    "Gymnasiet/Fysik 2/de Broglies hypotes.md",
+    "Gymnasiet/Fysik 2/Ljudstyrka.md",
+    "Gymnasiet/Fysik 2/Atomens elektronstruktur.md",
+    "Gymnasiet/Fysik 2/Magnetiska fält.md",
+    "Gymnasiet/Fysik 2/Dopplereffekt.md",
+    "Gymnasiet/Fysik 2/Resonans.md"
   ]
 }
