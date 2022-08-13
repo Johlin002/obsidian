@@ -1,0 +1,1 @@
+[[Tal]] som är mindre än [[noll]] kallas för [[Negativa tal]]. De börjar från `−1` och fortsätter mot mindre [[tal]]. Det finns ingen särskilt beteckning för de negativa talen.

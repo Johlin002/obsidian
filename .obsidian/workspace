@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "831d4a7d5a4c4003",
+        "id": "29c6f1ec0479928b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282.5107650756836
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md"
+              }
             }
           }
         ]
@@ -120,12 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "831d4a7d5a4c4003",
+  "active": "29c6f1ec0479928b",
   "lastOpenFiles": [
-    "Matematik/Pythagoras sats.md",
-    "Formel.md",
-    "Historia.md",
-    "Matematik.md",
-    "Fysik.md"
+    "talet e.md",
+    "Gymnasiet/Matte 1/Aritmetik/Talmängderna tillsammans.md",
+    "Gymnasiet/Matte 1/Aritmetik/Reella tal.md",
+    "Gymnasiet/Matte 1/Aritmetik/Rationella tal.md",
+    "Gymnasiet/Matte 1/Aritmetik/Negativa tal.md",
+    "Gymnasiet/Matte 1/Aritmetik/Naturliga tal.md",
+    "Gymnasiet/Matte 1/Aritmetik/Irrationella tal.md",
+    "Gymnasiet/Matte 1/Aritmetik/Heltal.md",
+    "tal.md",
+    "noll.md"
   ]
 }
