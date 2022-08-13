@@ -1,6 +1,5 @@
 # Obsidian - Allt i skolan
 ## En delad kraftfull kunskapsbas för elever och studenter.
----
 Projektet går ut på att sammanställa alla ämnen inom alla linjer och inriktningar som skolan undervisar.
 
 ## Varför?
