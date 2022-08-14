@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e04e44db9517b0e4",
+        "id": "40c1e9fb80b6cfbd",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 289.5036334991455
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -101,7 +101,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -113,24 +113,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e04e44db9517b0e4",
+  "active": "327ec8a84344a4ea",
   "lastOpenFiles": [
-    "Gymnasiet/Fysik 2/Weber.md",
-    "Gymnasiet/Fysik 2/Resistans.md",
-    "Gymnasiet/Fysik 2/Ohm.md",
-    "Gymnasiet/Fysik 2/Volt.md",
-    "Gymnasiet/Fysik 2/Ampere.md",
-    "Gymnasiet/Fysik 2/Coulomb.md",
-    "Gymnasiet/Fysik 2/Elektronvolt.md",
-    "Gymnasiet/Fysik 1/Untitled.md",
-    "Gymnasiet/Fysik 1/Celsius.md",
-    "Gymnasiet/Fysik 1/Kelvin.md"
+    "PQ-formeln.md",
+    "Andraderivatan.md",
+    "Derivata.md",
+    "Koordinatsystem.md",
+    "Substansmängd.md",
+    "Tid.md",
+    "Massa.md",
+    "Längd.md",
+    "Elektrisk ström.md",
+    "Våglängd.md"
   ]
 }

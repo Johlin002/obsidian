@@ -1,1 +1,0 @@
-Alla de [[Rationella tal]]en tillsammans med de [[Irrationella tal]]en utgör de [[Reella tal]]en.

@@ -1,0 +1,1 @@
+#Matte [[Tal]] som är skriven på [[bråkform]] kallas för [[Rationella tal]]. Villkoret för att ett tal ska vara ett rationellt tal är att både talet i [[täljaren]] och talet i [[nämnaren]] ska vara heltal. Dessutom får inte talet i [[nämnaren]] vara [[noll]]. Mängden av de rationella talen betecknas med bokstaven Q.

@@ -1,56 +1,56 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Gymnasiet/Matte 1\"",
+      "query": "tag:#Algebra",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Gymnasiet/Matte 2\"",
+      "query": "tag:#Geometri",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Gymnasiet/Matte 3\"",
+      "query": "tag:#Statistik",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Gymnasiet/Matte 4\"",
+      "query": "tag:#Grundstorhet",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:\"Gymnasiet/Matte 5\"",
+      "query": "tag:#Storhet",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"Gymnasiet/Fysik 1\"",
+      "query": "tag:#Fysik",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:\"Gymnasiet/Fysik 2\"",
+      "query": "tag:#Matte",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16403703110803805,
+  "scale": 0.13010568704828485,
   "close": true
 }
