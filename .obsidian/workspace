@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Magnetisering",
+                "query": "brytnings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,15 +124,15 @@
   },
   "active": "40c1e9fb80b6cfbd",
   "lastOpenFiles": [
+    "våg-partikeldualism.md",
+    "Brytningsindex.md",
+    "Illuminans.md",
+    "Ljusflöde.md",
+    "Ljusstyrka.md",
     "Elektrisk resistivitet.md",
     "s.md",
     "Magnetisering.md",
     "Magnetiskt flödestäthet.md",
-    "Wb.md",
-    "Magnetiskt flöde.md",
-    "A.md",
-    "Magnetisk fältstyrka.md",
-    "Elektrisk fältstyrka.md",
-    "Permeabilitet.md"
+    "Wb.md"
   ]
 }
