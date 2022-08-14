@@ -1,3 +1,3 @@
 #Mekanik #Storhet #Fysik #Fysik #Kinematik
-SI-enhet (m × s<sup>-2</sup>)
+SI-enhet ([[m]] × [[s]]<sup>-2</sup>)
 [[Vektor]]

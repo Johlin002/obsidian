@@ -1,3 +1,3 @@
 #Storhet #Fysik #Termodynamik 
 Symbol [[Q]]
-SI-enhet [[Joule]] (J)
+SI-enhet [[Joule]] ([[J]])

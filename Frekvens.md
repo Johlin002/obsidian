@@ -1,3 +1,3 @@
 #Storhet #Fysik #Fysik #Kinematik
-SI-enhet [[Hertz]] (Hz = s<sup>-1</sup>)
+SI-enhet [[Hertz]] ([[Hz]] = [[s]]<sup>-1</sup>)
 [[Skalär]]
