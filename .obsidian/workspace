@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pq",
+                "query": "#Elektri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5036334991455
+    "width": 222.5036334991455
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "327ec8a84344a4ea",
+  "active": "40c1e9fb80b6cfbd",
   "lastOpenFiles": [
-    "PQ-formeln.md",
-    "Andraderivatan.md",
-    "Derivata.md",
-    "Koordinatsystem.md",
-    "Substansmängd.md",
-    "Tid.md",
-    "Massa.md",
-    "Längd.md",
+    "Absolut temperatur.md",
+    "Kelvin.md",
+    "Viskositet.md",
+    "Volt.md",
+    "Resistans.md",
+    "Ohms lag.md",
+    "Ohm.md",
+    "Elektriska fält.md",
     "Elektrisk ström.md",
-    "Våglängd.md"
+    "Elektrisk resistivitet.md"
   ]
 }

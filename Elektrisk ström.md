@@ -1,1 +1,2 @@
-#Storhet #Fysik #Fysik #Grundstorhet
+#Storhet #Fysik #Elektromagnetism #Grundstorhet
+SI-enhet [[Ampere]] (A)
