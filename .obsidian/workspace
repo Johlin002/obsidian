@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K<",
+                "query": "Magnetisering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5036334991455
+    "width": 198.5036334991455
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -124,15 +124,15 @@
   },
   "active": "40c1e9fb80b6cfbd",
   "lastOpenFiles": [
-    "Arbete.md",
-    "Värmekapacitet.md",
-    "Specifik värmekapacitet.md",
-    "Entropi.md",
-    "Tyngd.md",
-    "kg.md",
-    "Densitet.md",
-    "Hastighet.md",
-    "Kongruensräkning.md",
-    "Volym.md"
+    "Elektrisk resistivitet.md",
+    "s.md",
+    "Magnetisering.md",
+    "Magnetiskt flödestäthet.md",
+    "Wb.md",
+    "Magnetiskt flöde.md",
+    "A.md",
+    "Magnetisk fältstyrka.md",
+    "Elektrisk fältstyrka.md",
+    "Permeabilitet.md"
   ]
 }

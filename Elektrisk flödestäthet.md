@@ -1,3 +1,4 @@
 #Storhet #Fysik #Elektromagnetism
-SI-enhet (V × m<sup>-1</sup>)
+Symbol [[D]]
+SI-enhet (C × m<sup>-2</sup>)
 [[Vektorfält]]

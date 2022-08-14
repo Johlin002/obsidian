@@ -1,3 +1,3 @@
 #Storhet #Fysik #Elektromagnetism #Grundstorhet
-Symbol [[I]]
-SI-enhet [[Ampere]] (A)
+SI-enhet (A × m<sup>-2</sup>)
+[[Vektor]]
