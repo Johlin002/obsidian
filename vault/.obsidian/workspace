@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brytnings",
+                "query": "Ryck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,12 +53,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 198.5036334991455
+    "width": 240.5
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -122,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40c1e9fb80b6cfbd",
+  "active": "327ec8a84344a4ea",
   "lastOpenFiles": [
+    "Ryck.md",
+    "Elektrisk resistivitet.md",
     "våg-partikeldualism.md",
     "Brytningsindex.md",
     "Illuminans.md",
     "Ljusflöde.md",
     "Ljusstyrka.md",
-    "Elektrisk resistivitet.md",
     "s.md",
     "Magnetisering.md",
-    "Magnetiskt flödestäthet.md",
-    "Wb.md"
+    "Magnetiskt flödestäthet.md"
   ]
 }
