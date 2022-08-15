@@ -13,4 +13,3 @@ Som du kanske ser så finns det vissa faktorer som avgör elektronegativiteten.
 Som vi kan se så har Flor det största elektronegativitetsvärdet då den har 7 valenselektroner och bara 2 skal.
 
 Källa: https://ehinger.nu/undervisning/kurser/kemi-1/lektioner/kemisk-bindning/polar-kovalent-bindning.html
-
