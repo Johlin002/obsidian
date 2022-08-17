@@ -1,2 +1,2 @@
-#Storhet #Fysik #Fysik #Grundstorhet
+#Storhet #Grundstorhet #Fysik #Geometri 
 SI-enhet [[Meter]] (m)

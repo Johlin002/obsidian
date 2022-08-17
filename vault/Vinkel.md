@@ -1,2 +1,2 @@
-#Matte #Storhet #Fysik #Fysik
+#Matte #Storhet #Fysik #Geometri 
 SI-enhet [[Radian]] (rad)
