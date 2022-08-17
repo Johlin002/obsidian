@@ -1,0 +1,1 @@
+[{{title}} - Wikipedia](https://sv.wikipedia.org/wiki/{{title}})
