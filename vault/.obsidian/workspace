@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "40c1e9fb80b6cfbd",
+        "id": "e67fafcc28dd1d1c",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ryck",
+                "query": "[formel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +53,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 229.5
   },
   "right": {
     "id": "b87548abc03dad46",
@@ -121,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40c1e9fb80b6cfbd",
+  "active": "e67fafcc28dd1d1c",
   "lastOpenFiles": [
-    "Vektor.md",
-    "Absolut temperatur.md",
-    "A.md",
-    "Untitled.md",
-    "Ryck.md",
-    "Elektrisk resistivitet.md",
-    "våg-partikeldualism.md",
-    "Brytningsindex.md",
-    "Illuminans.md",
-    "Ljusflöde.md"
+    "Cosinussatsen.md",
+    "Verkningsgrad.md",
+    "Rätblock.md",
+    "Tyngdacceleration.md",
+    "Triangel.md",
+    "Rektangel.md",
+    "Pyramid.md",
+    "Kon.md",
+    "Prisma.md",
+    "Kvadrat.md"
   ]
 }

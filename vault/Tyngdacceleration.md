@@ -1,2 +1,1 @@
 #Mekanik #Fysik 
-[[Formel]]
